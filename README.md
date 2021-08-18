@@ -1,1 +1,3 @@
-# Projet-7_v2
+# Projet-7
+
+Implémentez un modèle de scoring
